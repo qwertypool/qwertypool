@@ -55,8 +55,7 @@
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=qwertypool&repo=insta-posts)](https://github.com/qwertypool/insta-posts)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=qwertypool&repo=flutter-code-snippets)](https://github.com/qwertypool/flutter-code-snippets)
 
-### Top Language 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwertypool)](https://github.com/qwertypool/github-readme-stats)
+
 
 
 
