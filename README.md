@@ -1,16 +1,62 @@
-### Hi there 👋
+### Hi there Deepa here👋
 
-<!--
-**qwertypool/qwertypool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=qwertypool.qwertypool&color=00cf00)
+[![Instagram Badge](https://img.shields.io/badge/-flutter_girlz-pink?style=flat-square&logo=instagram&logoColor=black&link=https://www.instagram.com/flutter_girlz_/)](https://www.instagram.com/flutter_girlz_/)
+[![Linkedin Badge](https://img.shields.io/badge/-deepapandey364-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepapandey364/)](https://www.linkedin.com/in/deepapandey364/)
+[![Medium Badge](https://img.shields.io/badge/-@deepapandey364-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@deepapandey364)](https://medium.com/@deepapandey364)
+[![Gmail Badge](https://img.shields.io/badge/-deepapandey364-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepapandey364@gmail.com)](mailto:deepapandey364@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-DeepaPa49140426-teal?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/DeepaPa49140426)](https://twitter.com/DeepaPa49140426)
+<br>
+<br>
 
-Here are some ideas to get you started:
+<img src="https://user-images.githubusercontent.com/36128196/119252769-95264300-bbcb-11eb-818c-487861bc86ee.gif" alt="side Image" align="right" width="280" height="auto" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🔭 I’m currently working on Building a complete instagram clone & my insta page [@flutter_girlz](https://www.instagram.com/flutter_girlz_/)
+- 🌱 I’m currently learning Flutter | 
+- 👯 I’m looking to collaborate on freelancing projects
+- 💬 Ask me about everything except my number 😆 [jokin guys, come up with Flutter / Python]
+- 📫 How to reach me: Just ping me up on [@flutter_girlz](https://www.instagram.com/flutter_girlz_/) & expect a response within 24 hrs 😛
+- 😄 Pronouns: what comes to your mind after checking my dp 🙄
+- ⚡ Fun fact: YOU know 🤔 6hrs of DEBUGGING 🤯 can actually SAVE YOUR 6 mins of READING DOCUMENTATION 😍💃
+
+
+## ⚡ Technologies
+
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
+![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter)
+![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+![Java](https://img.shields.io/badge/-java-FCA121?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-311C87?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-FireBase-005571?style=flat-square&logo=firebase)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+
+![Deepa's github stats](https://github-readme-stats.vercel.app/api?username=qwertypool)
+
+### My Fab Repo 😍
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=qwertypool&repo=insta-posts)](https://github.com/qwertypool/insta-posts)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=qwertypool&repo=flutter-code-snippets)](https://github.com/qwertypool/flutter-code-snippets)
+
+### Top Language 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwertypool)](https://github.com/qwertypool/github-readme-stats)
+
+
+
