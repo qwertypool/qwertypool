@@ -18,7 +18,7 @@
 - 🔭 I’m currently working on Instagram clone + My insta page [@flutter_girlz](https://www.instagram.com/flutter_girlz_/)
 - 🌱 I’m currently learning Flutter | ReactJS
 - 👯 I’m looking to collaborate on freelancing projects
-- 💬 Ask me everything about coding😇 I love debugging & would be glad to help 😎
+- 💬 Ask me anything about python/flutter😇 would be glad to help 😎
 - 📫 How to reach me: Just ping me up on [mail](mailto:deepapandey364@gmail.com) / [@flutter_girlz](https://www.instagram.com/flutter_girlz_/) 📱
 - ⚡ Fun fact: YOU know 🤔 6hrs of DEBUGGING 🤯 can actually SAVE YOUR 6 mins of READING DOCUMENTATION 😍💃
 
