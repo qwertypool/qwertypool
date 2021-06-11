@@ -7,11 +7,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-flutter_girlz-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/flutter_girlz_/)](https://www.instagram.com/flutter_girlz_/)
 [![Linkedin Badge](https://img.shields.io/badge/-deepapandey364-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepapandey364/)](https://www.linkedin.com/in/deepapandey364/)
 [![Gmail Badge](https://img.shields.io/badge/-deepapandey364-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepapandey364@gmail.com)](mailto:deepapandey364@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-DeepaPa49140426-teal?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/DeepaPa49140426)](https://twitter.com/DeepaPa49140426)
+[![Twitter Badge](https://img.shields.io/badge/-DeepaPa49140426-teal?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/DeepaPa49140426)](https://twitter.com/flutter_girlz)
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/36128196/119252769-95264300-bbcb-11eb-818c-487861bc86ee.gif" alt="side Image" align="right" width="280" height="auto" />
+<img src="https://user-images.githubusercontent.com/36128196/119252769-95264300-bbcb-11eb-818c-487861bc86ee.gif" alt="side Image" align="right" width="260" height="auto" />
 
 
 
@@ -32,7 +32,7 @@
 ![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
