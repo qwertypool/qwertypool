@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-deepapandey364-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepapandey364/)](https://www.linkedin.com/in/deepapandey364/)
 [![Gmail Badge](https://img.shields.io/badge/-deepapandey364-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepapandey364@gmail.com)](mailto:deepapandey364@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-flutter_girlz-teal?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/DeepaPa49140426)](https://twitter.com/flutter_girlz) <a href="https://dev.to/qwertypool">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Deepa's DEV Community Profile" height="30" width="30">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Deepa's DEV Community Profile" height="20" width="40">
 </a>
 
 <br>
