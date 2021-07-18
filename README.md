@@ -7,6 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-flutter_girlz-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/flutter_girlz_/)](https://www.instagram.com/flutter_girlz_/)
 [![Linkedin Badge](https://img.shields.io/badge/-deepapandey364-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepapandey364/)](https://www.linkedin.com/in/deepapandey364/)
 [![Gmail Badge](https://img.shields.io/badge/-deepapandey364-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepapandey364@gmail.com?)](mailto:deepapandey364@gmail.com?)
+[Gmail Badge](mailto:deepapandey364@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-flutter_girlz-teal?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/DeepaPa49140426)](https://twitter.com/flutter_girlz) 
 <br>
 <a href="https://dev.to/qwertypool">
