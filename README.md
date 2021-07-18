@@ -8,8 +8,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-deepapandey364-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepapandey364/)](https://www.linkedin.com/in/deepapandey364/)
 [![Gmail Badge](https://img.shields.io/badge/-deepapandey364-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepapandey364@gmail.com?)](mailto:deepapandey364@gmail.com?)
 
-
-[![Twitter Badge](https://img.shields.io/badge/-flutter_girlz-teal?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/DeepaPa49140426)](https://twitter.com/flutter_girlz) 
 <br>
 <a href="https://dev.to/qwertypool">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Deepa's DEV Community Profile" height="45" width="45">
@@ -40,7 +38,6 @@
 ![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ---
