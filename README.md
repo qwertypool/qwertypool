@@ -18,8 +18,7 @@
 
 
 
-- 🔭 I’m currently working on Instagram clone + My insta page [@flutter_girlz](https://www.instagram.com/flutter_girlz_/)
-- 🌱 I’m currently learning Flutter | ReactJS
+- 🔭 I’m currently working on problem solving - DSA
 - 👯 I’m looking to collaborate on freelancing projects
 - 💬 Ask me anything about python/flutter😇 would be glad to help 😎
 - 📫 How to reach me: Just ping me up on [mail](mailto:deepapandey364@gmail.com) / [@flutter_girlz](https://www.instagram.com/flutter_girlz_/) 📱
@@ -32,11 +31,8 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter)
-![Dart](https://img.shields.io/badge/-Dart-E34F26?style=flat-square&logo=Dart)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
