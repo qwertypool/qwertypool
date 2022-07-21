@@ -1,10 +1,10 @@
 
-<img src="https://user-images.githubusercontent.com/36128196/119259076-1b518200-bbea-11eb-990d-b037c20e34db.gif" alt="side Image" align="center" width="1000" height="auto" />
+<!--<img src="https://user-images.githubusercontent.com/36128196/119259076-1b518200-bbea-11eb-990d-b037c20e34db.gif" alt="side Image" align="center" width="1000" height="auto" /> -->
 
 
 
 
-[![Instagram Badge](https://img.shields.io/badge/-flutter_girlz-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/flutter_girlz_/)](https://www.instagram.com/flutter_girlz_/)
+<!--[![Instagram Badge](https://img.shields.io/badge/-flutter_girlz-black?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/flutter_girlz_/)](https://www.instagram.com/flutter_girlz_/)-->
 [![Linkedin Badge](https://img.shields.io/badge/-deepapandey364-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deepapandey364/)](https://www.linkedin.com/in/deepapandey364/)
 [![Gmail Badge](https://img.shields.io/badge/-deepapandey364-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:deepapandey364@gmail.com?)](mailto:deepapandey364@gmail.com?)
 
@@ -19,9 +19,9 @@
 
 
 - 🔭 I’m currently working on problem solving - DSA
-- 👯 I’m looking to collaborate on freelancing projects
-- 💬 Ask me anything about python/flutter😇 would be glad to help 😎
-- 📫 How to reach me: Just ping me up on [mail](mailto:deepapandey364@gmail.com) / [@flutter_girlz](https://www.instagram.com/flutter_girlz_/) 📱
+- 👯 I'm interested in writing & reviewing technical articles in the free time ✍️
+- 💬 Ask me anything about python😇 would be glad to help 😎
+- 📫 How to reach me: Just ping me up on [mail](mailto:deepapandey364@gmail.com)
 - ⚡ Fun fact: YOU know 🤔 6hrs of DEBUGGING 🤯 can actually SAVE YOUR 6 mins of READING DOCUMENTATION 😍💃
 
 ---
@@ -30,9 +30,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
-![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![ReactJs](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
